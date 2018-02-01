@@ -1,0 +1,10 @@
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.Cache
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\Users\frank\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

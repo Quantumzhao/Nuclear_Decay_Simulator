@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ConsoleApp1.NukeTest.exe" version="1.0.0.0" publicKeyToken="e5c43663cdf88716" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ConsoleApp1.NukeTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ConsoleApp1.NukeTest.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+         若想要更改 Windows 用户帐户控制级别，请
+         将 requestedExecutionLevel 节点替换为下述某项。
+
+       <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+       <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+       <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        若想要使用文件和注册表虚拟化以实现向后
+        兼容，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ConsoleApp1.NukeTest.exe" size="12232">
+      <assemblyIdentity name="ConsoleApp1.NukeTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+RKuV8UNlhX311OsUe6/86vdAouYUOLEvuxM/eCZfXI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ConsoleApp1.NukeTest.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=FRANKLIN\Franklin" issuerKeyHash="dfe2353513ad2dc3f050445cebe16bb12496b0a0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>DPux4a8pFRFPGrr1PIaUOYrELMKi1lB2JvFqQ/cy8wU=</DigestValue></Reference></SignedInfo><SignatureValue>AqLMri5mI9OUJiFrf57+YfC/QSg4Rv+ghMaOs8dKfCn43h7RgbzbZYVgjT+kfTsGb7Dh1ojsY7W5+B0+4X3aThCpJnBVGhSTs20lV5TjoVrv6eW5ipSc1Ar++eE14dJz0vWAm8NpapEOqR+wsncO2WWZaqGk21ooeG8UR9ACYE0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xkokLJxZCRiZFYbCJ+BirnayOqlSbC3/bLEFTW6EKsHkDV+GLO6/cTNQ0AuN443CI8BKx86pktzIJGZPGes1UPHBv5MpBbH3ABpfkYQs4RKOhgVBs8WchzrK/LqynlKAYIInNiDjql8KuFQRYCN5g6TvW0iEeK34zXg9Ovhy+GE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="05f332f7436af1267650d6a2c22cc48a3994863cf5ba1a4f111529afe1b1fb0c" Description="" Url=""><as:assemblyIdentity name="ConsoleApp1.NukeTest.exe" version="1.0.0.0" publicKeyToken="e5c43663cdf88716" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=FRANKLIN\Franklin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qCGI9ExYUilW56ZHkpYRPO+Cqv0U1Uf41Tg8f980Eb0=</DigestValue></Reference></SignedInfo><SignatureValue>coYv0oDj01KCJTIYqOAan1WAQ5k5PDTTMgXusqGG98k5jBNYExslwnML9j6KUlzz0Joe73MjNboRDJh/Ej7EMZBROfbCgFNjsNjNB4omOWGRkrO3nAeTl0dzrWQzq1ljKuyX0GznVeMVDO2TDTYB2Z1Fx4jcBg7PT5aQ6lCcFHc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xkokLJxZCRiZFYbCJ+BirnayOqlSbC3/bLEFTW6EKsHkDV+GLO6/cTNQ0AuN443CI8BKx86pktzIJGZPGes1UPHBv5MpBbH3ABpfkYQs4RKOhgVBs8WchzrK/LqynlKAYIInNiDjql8KuFQRYCN5g6TvW0iEeK34zXg9Ovhy+GE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQGWylyHtzLppP+DzQPI0XUzANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIARgBSAEEATgBLAEwASQBOAFwARgByAGEAbgBrAGwAaQBuMB4XDTE4MDEyMjExMjExNloXDTE5MDEyMjE3MjExNlowLTErMCkGA1UEAx4iAEYAUgBBAE4ASwBMAEkATgBcAEYAcgBhAG4AawBsAGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxkokLJxZCRiZFYbCJ+BirnayOqlSbC3/bLEFTW6EKsHkDV+GLO6/cTNQ0AuN443CI8BKx86pktzIJGZPGes1UPHBv5MpBbH3ABpfkYQs4RKOhgVBs8WchzrK/LqynlKAYIInNiDjql8KuFQRYCN5g6TvW0iEeK34zXg9Ovhy+GECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBSazEaSVTt4VuBuUY0PMOmZ5heD2aRDY0hK5hotuiy5anlwAXzeHmBcM6LD83rsZSM2Ij/6D28MejggAAlpjz9s9toHlylMPGZLJ8d0v7RpCvczAoP0WKPkbOT4/Sc0wVyWrrqNEj6xGthJwPDjA7gcAhB0Nu09EPFiCCgcnRzZQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

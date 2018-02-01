@@ -1,0 +1,15 @@
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\bin\Debug\ConsoleApp1.NukeTest.exe.config
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\bin\Debug\ConsoleApp1.NukeTest.exe
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\bin\Debug\ConsoleApp1.NukeTest.pdb
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\bin\Debug\ConsoleApp1.NukeTest.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.vbproj.GenerateResource.Cache
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.vbproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.exe
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.pdb
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.vbprojResolveAssemblyReference.cache
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\bin\Debug\ConsoleApp1.NukeTest.exe.manifest
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\bin\Debug\ConsoleApp1.NukeTest.application
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.exe.manifest
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ConsoleApp1.NukeTest\ConsoleApp1.NukeTest\obj\Debug\ConsoleApp1.NukeTest.application
